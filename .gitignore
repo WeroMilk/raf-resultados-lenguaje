@@ -48,8 +48,7 @@ USUARIOS-Y-CONTRASEÑAS.txt
 USUARIOS-Y-CONTRASEÑAS-ZONAS.txt
 USUARIOS-Y-CONTRASEÑAS-ESCUELAS.txt
 
-# datos generados (npm run build:data)
-public/data/resultados.json
+# datos generados: resultados.json se incluye para el deploy
 USUARIOS-Y-CONTRASEÑAS.txt
 
 # vercel
